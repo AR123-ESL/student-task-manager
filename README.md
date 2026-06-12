@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was developed as part of the COMP PFD200 Professional Development Portfolio module.
+This project was developed as part of the Professional Development Portfolio module.
 
 The application allows users to manage tasks using a simple menu-driven interface built with Python.
 
@@ -42,5 +42,5 @@ The application was tested for:
 
 ## Author
 
-Ash Rowe
-COMP PFD200 Portfolio Project
+Ashannafi Rowe
+
